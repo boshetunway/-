@@ -2,7 +2,6 @@
 
 ## Результаты проверки сети
 
-Вот результаты тестирования:
 
 <img width="500" height="435" alt="image_2025-11-29_12-47-58" src="https://github.com/user-attachments/assets/49b3103b-bd01-4513-aaf2-df318e081eeb" />
 <img width="500" height="668" alt="image_2025-11-29_12-49-08" src="https://github.com/user-attachments/assets/e16d1159-f655-46da-8e1e-a23529cc8e0b" />
